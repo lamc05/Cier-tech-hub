@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+*.pyc
+__pycache__/
+.env
+
+# iOS
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Android
+*.apk
+*.ap_ 
+*.iml
+.gradle/
+/local.properties
+/.idea/
+
+# Common development files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
